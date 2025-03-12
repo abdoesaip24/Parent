@@ -1,6 +1,7 @@
 [submodule "A"]
 	path = A
 	url = https://github.com/abdoesaip24/A.git
+	branch = feature
 [submodule "B"]
 	path = B
 	url = https://github.com/abdoesaip24/B.git
